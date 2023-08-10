@@ -1,2 +1,2 @@
 # TestingTesting123
-Testing the repo for Gitc Collaboration
+Testing the repo for Git Collaboration
